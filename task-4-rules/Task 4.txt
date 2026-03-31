@@ -1,0 +1,43 @@
+Part A – Professional Emails
+Email 1: Requesting Assignment Extension
+Subject: Request for Extension on Assignment Submission
+Dear Professor  sir,
+I hope this message finds you well. I am writing to respectfully request an extension for the upcoming assignment on Computational Physics, which is currently due on 29/3/36.
+Due to overlapping deadlines, I am finding it challenging to complete the assignment to the best of my ability by the given deadline. I kindly request an extension of 3 days to ensure I can submit quality work.
+I sincerely apologize for any inconvenience this may cause and assure you that I remain committed to maintaining the standards of the course.
+Thank you very much for considering my request.
+Sincerely,
+Suryaansh Pratap Singh
+25BEC10034
+
+Email 2: Internship Application
+Subject: Application for Summer Internship Opportunity at TTSL
+Dear Raj Shekhar Roy,
+I am writing to express my interest in the summer internship opportunity at TTSL, as advertised on [LinkedIn/College Notice Board/any platform of your choice]. I am currently pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence and Machine Learning at VIT Bhopal.
+Through my coursework and projects, I have gained hands-on experience in Python, C++, SQL, and machine learning workflows. I am particularly enthusiastic about applying these skills in a practical environment and contributing to TTSL’s innovative projects.
+I believe this internship will provide valuable exposure to industry practices while allowing me to contribute meaningfully to your team. Please find my resume attached for your consideration.
+Thank you for your time and consideration. I look forward to the possibility of working with TTSL.
+Best regards,
+Suryaansh Pratap Singh
+📞 8840724805
+📧 suryaansh.25bec10034@vitbhopal.ac.in
+
+✨ This version now includes your company name (TTSL), coordinator’s name (Raj Shekhar Roy), and your full contact details.
+Would you like me to also polish Email 1 with your name and details so both drafts are consistent and ready to save into your task-4-email-etiquette/ folder?
+
+
+
+Part B – Social Media Do’s and Don’ts Checklist
+Here’s a simple checklist you can save as social-media-checklist.md or .txt:
+✅ Do’s
+- Do maintain a professional profile picture and bio.
+- Do verify information before sharing or reposting.
+- Do respect privacy by adjusting account settings appropriately.
+- Do engage positively and constructively in discussions.
+- Do credit sources when sharing academic or creative content.
+❌ Don’ts
+- Don’t share sensitive personal information publicly.
+- Don’t post offensive or discriminatory content.
+- Don’t engage in cyberbullying or negative trolling.
+- Don’t plagiarize or copy content without permission.
+- Don’t spend excessive time online at the cost of academics.
